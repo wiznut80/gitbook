@@ -11,8 +11,12 @@ Favicon.ico 적용
     <th colspan="2">병합된 제목</th>
   </tr>
   <tr>
-    <td>내용1</td>
+    <td rowspan="2">세로 병합</td>
     <td>내용2</td>
     <td>내용3</td>
+  </tr>  
+  <tr>
+    <td>내용3</td>
+    <td>내용4</td>
   </tr>
 </table>
